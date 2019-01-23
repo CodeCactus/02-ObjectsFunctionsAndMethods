@@ -2,16 +2,12 @@ a##############################################################################
 #
 # This file summarizes the differences between METHODS and FUNCTIONS.
 #
-# Methods and functions are the SAME in that:
-#
-#   1. They give a NAME to a block of code.
-#
-#   2. They are defined by using a DEF statement, e.g.:
-#
+# Methods and functions give a NAME to a block of code, are defined by using a DEF statement
+# e.g.:
 #       def draw_dragon(color, size):
 #           ...
 #
-#   3. They can have PARAMETERS that receive values from actual ARGUMENTS
+#   They can have PARAMETERS that receive values from actual ARGUMENTS
 #       when the method/function is CALLED.
 #
 # Methods and functions are DIFFERENT in that:

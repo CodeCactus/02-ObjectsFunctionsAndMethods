@@ -242,4 +242,9 @@ def try_methods_and_functions():
 # Calls  main  to start the ball rolling.
 # -----------------------------------------------------------------------------
 
-main()
+#main()
+
+for k in range(1,8):
+    color=['red','orange','yellow','green','blue','purple']
+    colors=color*k
+    print(colors[k])

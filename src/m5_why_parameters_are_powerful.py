@@ -26,10 +26,10 @@ def main():
 
     #better_draw_circles(rg.Point(100, 50),5,15,10)
     #better_draw_circles(rg.Point(-200, 0),12,6,30)
-    even_better_draw_circles(rg.Point(6,66), 5, 36,'purple',4)
+    even_better_draw_circles(rg.Point(6,66), 5, 36,'lime',4)
 
-    even_better_draw_circles(rg.Point(1, -26), 7, 26, 'purple', 1)
-    even_better_draw_circles(rg.Point(-100, 0), 5, 12, 'purple', 3)
+    even_better_draw_circles(rg.Point(1, -26), 7, 26, 'white', 1)
+    even_better_draw_circles(rg.Point(-100, 0), 5, 1200, 'cyan', 3)
     window.update()
     window.close_on_mouse_click()
 
